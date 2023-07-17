@@ -1,0 +1,20 @@
+2023-05-26T08:52:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-image-editor-imagick.php à la ligne 154
+
+2023-05-26T08:52:38+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-image-editor-imagick.php à la ligne 154
+
+2023-05-26T08:55:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-image-editor-imagick.php à la ligne 154
+
+2023-05-26T09:05:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-image-editor-imagick.php à la ligne 154
+
+2023-05-26T09:07:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-image-editor-imagick.php à la ligne 154
+
+2023-05-26T09:08:01+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-image-editor-imagick.php à la ligne 154
+
+2023-05-26T09:08:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-image-editor-imagick.php à la ligne 154
+
+2023-05-26T09:26:02+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-image-editor-imagick.php à la ligne 154
+
+2023-05-26T09:30:03+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-image-editor-imagick.php à la ligne 154
+
+2023-05-26T09:50:01+00:00 CRITICAL syntax error, unexpected '}' dans C:\MAMP\htdocs\CHIC_Dressing\wp-content\themes\chicdressing\functions.php à la ligne 31
+

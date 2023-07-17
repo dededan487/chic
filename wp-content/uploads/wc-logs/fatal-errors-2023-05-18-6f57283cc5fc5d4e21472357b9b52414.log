@@ -1,0 +1,24 @@
+2023-05-18T11:54:05+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-image-editor-imagick.php à la ligne 154
+
+2023-05-18T11:54:20+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-image-editor-imagick.php à la ligne 154
+
+2023-05-18T11:56:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-image-editor-imagick.php à la ligne 154
+
+2023-05-18T12:09:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-image-editor-imagick.php à la ligne 154
+
+2023-05-18T12:16:01+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-image-editor-imagick.php à la ligne 154
+
+2023-05-18T14:23:22+00:00 CRITICAL syntax error, unexpected 'esc_url' (T_STRING) dans C:\MAMP\htdocs\CHIC_Dressing\wp-content\themes\chicdressing\templates\grid\blog-grid.php à la ligne 52
+
+2023-05-18T14:23:24+00:00 CRITICAL syntax error, unexpected 'esc_url' (T_STRING) dans C:\MAMP\htdocs\CHIC_Dressing\wp-content\themes\chicdressing\templates\grid\blog-grid.php à la ligne 52
+
+2023-05-18T14:23:27+00:00 CRITICAL syntax error, unexpected 'esc_url' (T_STRING) dans C:\MAMP\htdocs\CHIC_Dressing\wp-content\themes\chicdressing\templates\grid\blog-grid.php à la ligne 52
+
+2023-05-18T14:24:26+00:00 CRITICAL syntax error, unexpected 'esc_url' (T_STRING) dans C:\MAMP\htdocs\CHIC_Dressing\wp-content\themes\chicdressing\templates\grid\blog-grid.php à la ligne 52
+
+2023-05-18T14:24:43+00:00 CRITICAL syntax error, unexpected 'esc_url' (T_STRING) dans C:\MAMP\htdocs\CHIC_Dressing\wp-content\themes\chicdressing\templates\grid\blog-grid.php à la ligne 52
+
+2023-05-18T14:24:52+00:00 CRITICAL syntax error, unexpected 'esc_url' (T_STRING) dans C:\MAMP\htdocs\CHIC_Dressing\wp-content\themes\chicdressing\templates\grid\blog-grid.php à la ligne 52
+
+2023-05-18T14:24:56+00:00 CRITICAL syntax error, unexpected 'esc_url' (T_STRING) dans C:\MAMP\htdocs\CHIC_Dressing\wp-content\themes\chicdressing\templates\grid\blog-grid.php à la ligne 52
+

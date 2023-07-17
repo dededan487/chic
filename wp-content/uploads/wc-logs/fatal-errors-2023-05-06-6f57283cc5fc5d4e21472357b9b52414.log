@@ -1,0 +1,24 @@
+2023-05-06T09:11:45+00:00 CRITICAL Uncaught Error: Call to undefined function opcache_reset() in C:\MAMP\htdocs\CHIC_Dressing\wp-content\plugins\nginx-helper\admin\class-fastcgi-purger.php:180
+Stack trace:
+#0 C:\MAMP\htdocs\CHIC_Dressing\wp-content\plugins\nginx-helper\admin\class-nginx-helper-admin.php(752): FastCGI_Purger->purge_all()
+#1 C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-hook.php(308): Nginx_Helper_Admin->purge_all('')
+#2 C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 C:\MAMP\htdocs\CHIC_Dressing\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-admin-bar.php(87): do_action('admin_bar_init')
+#5 C:\MAMP\htdocs\CHIC_Dressing\wp-includes\admin-bar.php(49): WP_Admin_Bar->initialize()
+#6 C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-hook.php(308): _wp_admin_bar_init('')
+#7 C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#8 C:\MAMP\htdocs\CHIC_Dressing\wp-includes\ dans C:\MAMP\htdocs\CHIC_Dressing\wp-content\plugins\nginx-helper\admin\class-fastcgi-purger.php à la ligne 180
+
+2023-05-06T09:12:10+00:00 CRITICAL Uncaught Error: Call to undefined function opcache_reset() in C:\MAMP\htdocs\CHIC_Dressing\wp-content\plugins\nginx-helper\admin\class-fastcgi-purger.php:180
+Stack trace:
+#0 C:\MAMP\htdocs\CHIC_Dressing\wp-content\plugins\nginx-helper\admin\class-nginx-helper-admin.php(752): FastCGI_Purger->purge_all()
+#1 C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-hook.php(308): Nginx_Helper_Admin->purge_all('')
+#2 C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 C:\MAMP\htdocs\CHIC_Dressing\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-admin-bar.php(87): do_action('admin_bar_init')
+#5 C:\MAMP\htdocs\CHIC_Dressing\wp-includes\admin-bar.php(49): WP_Admin_Bar->initialize()
+#6 C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-hook.php(308): _wp_admin_bar_init('')
+#7 C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#8 C:\MAMP\htdocs\CHIC_Dressing\wp-includes\ dans C:\MAMP\htdocs\CHIC_Dressing\wp-content\plugins\nginx-helper\admin\class-fastcgi-purger.php à la ligne 180
+

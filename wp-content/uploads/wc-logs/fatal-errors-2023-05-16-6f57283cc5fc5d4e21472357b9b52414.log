@@ -1,0 +1,22 @@
+2023-05-16T12:31:02+00:00 CRITICAL Out of memory (allocated 33554432) (tried to allocate 4194304 bytes) dans C:\MAMP\htdocs\CHIC_Dressing\wp-content\themes\ashe\inc\about\about-ashe.php à la ligne 566
+
+2023-05-16T13:07:46+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-image-editor-imagick.php à la ligne 154
+
+2023-05-16T13:10:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-image-editor-imagick.php à la ligne 154
+
+2023-05-16T13:17:05+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-image-editor-imagick.php à la ligne 154
+
+2023-05-16T13:18:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-image-editor-imagick.php à la ligne 154
+
+2023-05-16T13:20:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-image-editor-imagick.php à la ligne 154
+
+2023-05-16T13:26:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-image-editor-imagick.php à la ligne 154
+
+2023-05-16T13:35:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-image-editor-imagick.php à la ligne 154
+
+2023-05-16T15:10:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-image-editor-imagick.php à la ligne 154
+
+2023-05-16T15:33:27+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-image-editor-imagick.php à la ligne 154
+
+2023-05-16T15:33:27+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\MAMP\htdocs\CHIC_Dressing\wp-includes\class-wp-image-editor-imagick.php à la ligne 142
+
